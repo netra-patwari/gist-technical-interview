@@ -1,11 +1,11 @@
 # The Gist Technical Round
 
 ## Task UI
-![Photo 1]('/task.png')
+![Photo 1]('./pubic/task.png')
 
 
 ## UI Completed
-![Photo 2]('/screendone.png')
+![Photo 2]('./pubic/screendone.png')
 
 ## Applicant Information
 - Name: Netra Patwari
