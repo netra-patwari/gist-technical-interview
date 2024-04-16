@@ -1,11 +1,11 @@
 # The Gist Technical Round
 
 ## Task UI
-![Photo 1](/task.png)
+![Photo 1](https://github.com/netra-patwari/gist-technical-interview/blob/main/public/task.png)
 
 
 ## UI Completed
-![Photo 2](/screendone.png)
+![Photo 2](https://github.com/netra-patwari/gist-technical-interview/blob/main/public/screendone.png)
 
 ## Applicant Information
 - Name: Netra Patwari
